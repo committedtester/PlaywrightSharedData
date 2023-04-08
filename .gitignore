@@ -1,0 +1,17 @@
+node_modules
+dist
+testOutput/videos/*
+testOutput/reports/*
+testOutput/junit/*
+testOutput/logs
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+/tempAssets

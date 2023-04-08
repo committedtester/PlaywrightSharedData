@@ -1,0 +1,19 @@
+{
+	"name": "playwrightshareddata",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "npx playwright test",
+		"vscode-debug": "playwright test --config ./playwright.config.ts --workers=1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@playwright/test": "^1.32.2",
+		"csv-parse": "^5.3.6",
+		"csv-stringify": "^6.3.0",
+		"eslint": "^8.38.0",
+		"typescript": "^5.0.4"
+	}
+}
