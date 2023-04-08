@@ -13,5 +13,3 @@ testOutput/logs
 /test-results/
 /playwright-report/
 /playwright/.cache/
-
-/tempAssets
